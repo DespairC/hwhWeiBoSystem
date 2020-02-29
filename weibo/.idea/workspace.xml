@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="weibo" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45d7fed3-8fac-47e2-832b-0e74504c7746" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1Xgw4uMpB8WWnNeP6foIsbUKkrU" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/bbs" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32413793" />
+    <property name="settings.editor.selected.configurable" value="debugger.hotswap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.501">
+    <configuration name="DianzanDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwh.www.dao.DianzanDao" />
+      <module name="Weibo 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwh.www.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinglunDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwh.www.dao.PinglunDao" />
+      <module name="Weibo 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwh.www.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwh.www.dao.SubDao" />
+      <module name="Weibo 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwh.www.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwh.www.dao.UserDao" />
+      <module name="Weibo 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwh.www.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WenzhangDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwh.www.dao.WenzhangDao" />
+      <module name="Weibo 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwh.www.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.501" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.501" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="weibo">
+          <settings>
+            <option name="CONTEXT_PATH" value="/weibo" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Weibo_1_0_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63806" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="weibo" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.UserDao" />
+      <item itemvalue="Application.WenzhangDao" />
+      <item itemvalue="Application.PinglunDao" />
+      <item itemvalue="Application.SubDao" />
+      <item itemvalue="Application.DianzanDao" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.501" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WenzhangDao" />
+        <item itemvalue="Application.UserDao" />
+        <item itemvalue="Application.DianzanDao" />
+        <item itemvalue="Application.SubDao" />
+        <item itemvalue="Application.PinglunDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45d7fed3-8fac-47e2-832b-0e74504c7746" name="Default Changelist" comment="" />
+      <created>1581480857155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581480857155</updated>
+      <workItem from="1581480860995" duration="4030000" />
+      <workItem from="1581484911182" duration="283000" />
+      <workItem from="1581485231165" duration="222000" />
+      <workItem from="1581485489125" duration="26000" />
+      <workItem from="1581485569212" duration="2241000" />
+      <workItem from="1581494010691" duration="4228000" />
+      <workItem from="1581499361142" duration="500000" />
+      <workItem from="1581500389956" duration="150000" />
+      <workItem from="1581502284157" duration="6000" />
+      <workItem from="1581504052236" duration="3491000" />
+      <workItem from="1581564200361" duration="632000" />
+      <workItem from="1581573093532" duration="1788000" />
+      <workItem from="1581647964756" duration="218000" />
+      <workItem from="1581653340650" duration="2766000" />
+      <workItem from="1581736770709" duration="450000" />
+      <workItem from="1581837393174" duration="602000" />
+      <workItem from="1581913722978" duration="1206000" />
+      <workItem from="1582088468639" duration="4792000" />
+      <workItem from="1582119355588" duration="1391000" />
+      <workItem from="1582120761916" duration="5141000" />
+      <workItem from="1582125925040" duration="1658000" />
+      <workItem from="1582176552802" duration="1058000" />
+      <workItem from="1582191450523" duration="6390000" />
+      <workItem from="1582213445163" duration="1043000" />
+      <workItem from="1582291411175" duration="607000" />
+      <workItem from="1582356409798" duration="7185000" />
+      <workItem from="1582367643754" duration="684000" />
+      <workItem from="1582370474719" duration="1318000" />
+      <workItem from="1582372306107" duration="317000" />
+      <workItem from="1582378231565" duration="604000" />
+      <workItem from="1582439090499" duration="3554000" />
+      <workItem from="1582442662418" duration="13942000" />
+      <workItem from="1582464279678" duration="8414000" />
+      <workItem from="1582473081113" duration="510000" />
+      <workItem from="1582515860941" duration="2360000" />
+      <workItem from="1582520298273" duration="27000" />
+      <workItem from="1582538014605" duration="11731000" />
+      <workItem from="1582553089768" duration="431000" />
+      <workItem from="1582553533581" duration="3298000" />
+      <workItem from="1582609723294" duration="12265000" />
+      <workItem from="1582622018611" duration="1829000" />
+      <workItem from="1582624800297" duration="2026000" />
+      <workItem from="1582626885239" duration="47000" />
+      <workItem from="1582628842468" duration="1062000" />
+      <workItem from="1582630648101" duration="14000" />
+      <workItem from="1582630702324" duration="71000" />
+      <workItem from="1582631055461" duration="621000" />
+      <workItem from="1582632096921" duration="147000" />
+      <workItem from="1582632419005" duration="33000" />
+      <workItem from="1582632576343" duration="7000000" />
+      <workItem from="1582639600441" duration="3408000" />
+      <workItem from="1582644703389" duration="1455000" />
+      <workItem from="1582686540640" duration="1213000" />
+      <workItem from="1582688297380" duration="3041000" />
+      <workItem from="1582691945907" duration="4424000" />
+      <workItem from="1582696551312" duration="35000" />
+      <workItem from="1582698847032" duration="4923000" />
+      <workItem from="1582714383921" duration="3682000" />
+      <workItem from="1582721134964" duration="9103000" />
+      <workItem from="1582732499374" duration="872000" />
+      <workItem from="1582769424229" duration="46052000" />
+      <workItem from="1582847466430" duration="54822000" />
+      <workItem from="1582943507317" duration="32410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
